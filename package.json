@@ -1,0 +1,31 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A command-line application to generate professional README files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "README",
+    "generator",
+    "CLI",
+    "inquirer"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/readme-generator/issues"
+  },
+  "homepage": "https://github.com/yourusername/readme-generator#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
